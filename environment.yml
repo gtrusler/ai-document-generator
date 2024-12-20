@@ -1,0 +1,7 @@
+name: doc-gen-sys
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - nodejs=20
